@@ -1,9 +1,5 @@
 ### Olá Você 👾
 
-TEXTO <br>
-TEXTO <br>
-TEXTO <br>
-
 <br>
 
 
