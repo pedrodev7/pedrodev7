@@ -3,11 +3,9 @@
 🚀 Sou desenvolvedor e apaixonado pelas facilidades e inovações que a tecnologia nos oferece;<br>
 💻 Estou a procura por oportunidades e desafios de desenvolvimento;<br>
 📚 Sou formado em SI e atualmente estudando com um foco maior em Back-End;<br>
-👨‍💻 Abaixo algumas stacks que estudo e tenho conhecimento básico ou intermediário:
+👨‍💻 Abaixo algumas stacks que estudo e tenho conhecimento:
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
